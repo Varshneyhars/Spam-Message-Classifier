@@ -26,7 +26,7 @@ This project uses **Machine Learning** to classify SMS messages as **Spam** or *
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/spam-message-classifier.git
+   git clone https://github.com/Varshneyhars/Spam-Message-Classifier.git
    cd spam-message-classifier
 Install dependencies
 
